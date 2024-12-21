@@ -1,0 +1,25 @@
+requests
+python-dotenv
+snowflake-sqlalchemy
+SQLAlchemy
+pandas
+boto3
+selenium==4.1.0
+webscraping
+validators
+pydantic 
+pytest
+elementpath
+streamlit
+matplotlib
+pyarrow>=10.0.1,<10.1.0  # Adjust according to your specific compatibility needs
+selenium
+webdriver-manager
+openai==0.28
+pinecone-client
+langchain
+langchain-community
+langchain_pinecone
+tiktoken
+requests-html
+apache-airflow-providers-amazon == 8.16.0

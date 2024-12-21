@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+python-dotenv = "*"
+snowflake-sqlalchemy = "*"
+sqlalchemy = "*"
+pandas = "*"
+boto3 = "*"
+selenium = "*"
+webscraping = "*"
+validators = "*"
+pydantic = "*"
+pytest = "*"
+elementpath = "*"
+streamlit = "*"
+matplotlib = "*"
+pyarrow = "<10.1.0,>=10.0.1"
+webdriver-manager = "*"
+openai = "==0.28"
+pinecone-client = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-pinecone = "*"
+tiktoken = "*"
+requests-html = "*"
+apache-airflow-providers-amazon = "==8.16.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
